@@ -1,0 +1,19 @@
+@import "vars";
+@import "mixins";
+
+
+/* Default styles */
+
+body {
+    margin: 0;
+    background-image: url("assets\img\sunset.png");
+}
+
+/* Blocks */
+@import "blocks/header";
+@import "blocks/top";
+@import "blocks/card";
+@import "blocks/decor";
+@import "blocks/zoyavka";
+@import "blocks/footer";
+/* Vendor libs */

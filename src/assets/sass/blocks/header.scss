@@ -1,0 +1,67 @@
+.sun {
+    width: 1903px;
+    height: 1050px;
+    
+}
+
+.name{
+    color: white;
+    width: 40px;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.poisk {
+    background-color:  #E8F0F2;
+    width:240px;
+    height:25px;
+    margin-top: 17px;
+    font-size: 15px;
+    border:none;
+    border-radius: 12px;
+    opacity: 0.65;
+}
+
+.vec{
+    margin-left: 20px;
+}
+
+.nav{
+    font-size: 18px;
+    width: 300px;
+    padding-top:20px ;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+    position: absolute;
+    width: 1900px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.poisk{
+    margin-right: 200px;
+}
+
+.zagl{
+    position: absolute;
+    margin-top: 185px;
+    margin-left: 35px;
+}
+
+.back{
+    background-color: #396670;
+    width: 1920px;
+    height: 52px;
+    display: flex;
+    justify-content: space-between;
+}
