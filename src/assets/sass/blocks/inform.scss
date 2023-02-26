@@ -1,0 +1,50 @@
+.fon{
+    margin: 0 170px
+}
+
+.bigtext{
+    display: flex;
+    justify-content: space-around;
+}
+
+.bigtext__el{
+    font-size: 80px;
+}
+
+.littext{
+    display: flex;
+    justify-content: space-around;
+}
+
+.littext__el-ena{
+    font-size: 35px;
+    line-height: 0;
+    margin-left: 15px;
+}
+
+.littext__el-enb{
+    font-size: 35px;
+    line-height: 0;
+    margin-left: 60px;
+}
+
+.littext__el-enc{
+    font-size: 35px;
+    line-height: 0;
+    margin-left: 40px;
+}
+
+.littext__el-end{
+    font-size: 35px;
+    line-height: 0;
+}
+
+.lit{
+    display: flex;
+    justify-content: center;
+}
+
+.alltext{
+    position: relative;
+    bottom: 550px;
+}
